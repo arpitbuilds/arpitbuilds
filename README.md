@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Singh</h1>
 <h3 align="center">A passionate Full-Stack Developer building modern, AI-integrated web applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitbuilds&label=Profile%20views&color=0e75b6&style=flat" alt="arpitbuilds" /> </p>
+
 
 - 🚀 Currently working on highly scalable **MERN Stack** architectures and Real-time Sockets.
 - 💻 Ask me about **React, Node.js, Express, MongoDB, and TailwindCSS.**
