@@ -28,7 +28,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitbuilds&show_icons=true&theme=radical&hide_border=true" alt="Arpit's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=arpitbuilds&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Arpit's GitHub Stats" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitbuilds&theme=radical&hide_border=true" alt="Arpit's GitHub Streak" />
 </div>
 
