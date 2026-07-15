@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Arpit Singh
 
-💡 **Full-Stack Developer | AI Integration Specialist | Problem Solver**
+💡 **Full-Stack Developer | AI Integration | Problem Solver**
 
 I'm a computer science undergrad at GL Bajaj Institute of Technology and Management (Batch 2023-2027), passionate about **building AI-integrated web applications, optimizing systems, and solving algorithmic problems**.
 
 ---
 
 ## 🚀 About Me
-🔭 Preparing for **Software Engineering & AI-driven product roles**  
-🌱 Exploring **Generative AI and system design**  
-🧩 Strong foundation in **C, C++, Python, DSA, OOPs, Operating System and DBMS**  
+🔭 Preparing for **Software Developer / SDE & AI-driven engineering roles**  
+🌱 Exploring **Generative AI and system design**
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -49,10 +49,14 @@ I'm a computer science undergrad at GL Bajaj Institute of Technology and Managem
 
 ---
 
-## 🏆 Achievements
-🏆 **Semi-Finalist – NASA Space Apps Challenge 2024 at KIET Ghaziabad**  
-📚 **Solved 900+ DSA problems** across LeetCode, GFG, and HackerRank (Max Rating: **1794**)  
+## 🧠 Data Structures & Algorithms
+📚 **Solved 900+ DSA problems** across LeetCode, GeeksforGeeks, and HackerRank  
+📈 **LeetCode Max Rating:** **1794**  
 🏅 **HackerRank:** 5★ C++ verified  
+
+### 🔗 Coding Profiles
+* 🌐 [**LeetCode**](https://leetcode.com/u/punk_18/) — `@punk_18` (Max Rating: 1794)
+* 💚 [**GeeksforGeeks**](https://www.geeksforgeeks.org/profile/arpitcodes) — `@arpitcodes`
 
 ---
 
@@ -62,13 +66,17 @@ I'm a computer science undergrad at GL Bajaj Institute of Technology and Managem
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitbuilds&layout=compact&theme=tokyonight)  
+
+<div align="center">
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpitbuilds&theme=tokyonight" alt="Arpit's GitHub Stats" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitbuilds&theme=tokyonight&hide_border=true" alt="Arpit's GitHub Streak" />
+</div>
 
 ---
 
 ## 🌐 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-jet-57.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-singh-a5380a348/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitbuilds@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/punk_18/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/arpitcodes)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-jet-57.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-singh-a5380a348/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitbuilds@gmail.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1144302393224351906)
 
 ---
 
-✨ _Always exploring, always building, always learning!_
+💡 _Transforming complex algorithms into elegant, full-stack solutions._
