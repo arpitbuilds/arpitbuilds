@@ -1,6 +1,18 @@
+<div align="center">
+
 # Hi, I'm Arpit Singh 👋
 
-Full-stack developer who builds AI-integrated web apps end to end — from constraint-solving algorithms to real-time systems.
+### Full-Stack Developer building AI-integrated web applications
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-singh-a5380a348/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitbuilds@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/punk_18/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=arpitbuilds&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
 
 ## What I've Built
 
@@ -12,11 +24,13 @@ Full-stack developer who builds AI-integrated web apps end to end — from const
 
 ## Tech Stack
 
-**Languages:** C, C++, Python, JavaScript, SQL
-**Frontend:** React.js, Tailwind CSS, HTML, CSS
-**Backend:** Node.js, Express.js, REST APIs
-**Database:** MongoDB
-**AI/Tools:** Gemini API, Google OR-Tools, Git, Postman
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,react,tailwind,html,css,nodejs,express,mongodb,git,postman)
+
+</div>
+
+**AI/Tools:** Gemini API · Google OR-Tools · Socket.io
 
 ## Currently
 
