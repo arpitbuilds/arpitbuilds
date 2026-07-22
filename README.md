@@ -55,7 +55,7 @@ I'm a computer science undergrad at GL Bajaj Institute of Technology and Managem
 🏅 **HackerRank:** 5★ C++ verified  
 
 ### 🔗 Coding Profiles
-* 🌐 [**LeetCode**](https://leetcode.com/u/punk_18/) — `@punk_18` (Max Rating: 1794)
+* 🌐 [**LeetCode**](https://leetcode.com/u/punk_18/) — `@punk_18` (Max Rating: 1815)
 * 💚 [**GeeksforGeeks**](https://www.geeksforgeeks.org/profile/arpitcodes) — `@arpitcodes`
 
 ---
