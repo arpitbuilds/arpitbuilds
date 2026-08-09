@@ -50,8 +50,8 @@ I'm a computer science undergrad at GL Bajaj Institute of Technology and Managem
 ---
 
 ## 🧠 Data Structures & Algorithms
-📚 **Solved 900+ DSA problems** across LeetCode, GeeksforGeeks, and HackerRank  
-📈 **LeetCode Max Rating:** **1794**  
+📚 **Solved 1000+ DSA problems** across LeetCode, GeeksforGeeks, and HackerRank  
+📈 **LeetCode Max Rating:** **1815**  
 🏅 **HackerRank:** 5★ C++ verified  
 
 ### 🔗 Coding Profiles
